@@ -9,7 +9,8 @@
     ```
     pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2
     ```
-    
+
+## Description
 1. Create a project in the API Console and set up credentials for a web application. Set the authorized redirect URIs as appropriate.
 2. We are using search by keyword API provided by Google Developers for this project. 
 
